@@ -1,7 +1,7 @@
 # H1B_LCA
 <ol>
-<li>Extract H-1B LCA data from DOL.</li>
-<li>Transform into a single tidy compressed CSV file (located in h1b_lca_data.zip) for Load.</li>
+<li>Extract H-1B Labor Condition Application data from Department of Labor website.</li>
+<li>Transform into a tidy compressed CSV files (located in h1b_lca_data_fy##.zip) for Load.</li>
 </ol>
 
 ## Getting Started
