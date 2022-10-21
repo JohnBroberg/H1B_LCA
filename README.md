@@ -26,12 +26,8 @@ https://www.dol.gov/agencies/eta/foreign-labor/performance
 * Metadata: LCA_Record_Layout_FY2022_Q3<br/>
 https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Record_Layout_FY2022_Q3.pdf
 
-* Form I-129 PDF: Petition for a Nonimmigrant Worker <br/>
-https://www.uscis.gov/sites/default/files/document/forms/i-129.pdf
-
-  Excerpts:
-  
-  "State indicated in the mailing address of the employer and is not necessarily the beneficiary(ies) work location"
+* ETA Form 9035 & 9035E: Labor Condition Application for Nonimmigrant Workers <br/>
+https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/ETA_Form_9035_2009_Revised.pdf
   
 * North American Industry Classification System - NAICS <br/>
 https://www.census.gov/naics/
