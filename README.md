@@ -23,17 +23,8 @@ You will need
 / Performance Data<br/>
 https://www.dol.gov/agencies/eta/foreign-labor/performance
 
-* Metadata: Understanding Our H-1B Employer Data Hub<br/>
-https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub/understanding-our-h-1b-employer-data-hub
-
-  Excerpts:
-  
-  "Data entry and petitioner errors may result in a missing and/or erroneous employer name, tax ID, state, city, or ZIP code in our electronic systems."
-
-  "We anticipate updating the H-1B Employer Data Hub quarterly and providing downloadable data files. For example, data for the first quarter (October-December) of a fiscal year will be provided in April of the fiscal year."
-
-  "NAICS code 99 means the industry is unknown. Any petition that had a blank code was assigned as 99 as well."
-
+* Metadata: LCA_Record_Layout_FY2022_Q3<br/>
+https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Record_Layout_FY2022_Q3.pdf
 
 * Form I-129 PDF: Petition for a Nonimmigrant Worker <br/>
 https://www.uscis.gov/sites/default/files/document/forms/i-129.pdf
