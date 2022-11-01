@@ -1,7 +1,7 @@
 # H1B_LCA
 <ol>
 <li>Extract H-1B Labor Condition Application (LCA) data from US Department of Labor website.</li>
-<li>Transform into a tidy compressed CSV files (located in h1b_lca_fy##_data.zip) for Load.</li>
+<li>Transform into tidy compressed CSV files (located in h1b_lca_fy##_data.zip) for Load.</li>
 </ol>
 
 ## Getting Started
